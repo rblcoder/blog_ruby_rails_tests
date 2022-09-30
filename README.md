@@ -9,3 +9,5 @@
 - to install the dependencies in local folder refer https://guilhermesimoes.github.io/blog/installing-gems-per-project-directory
 
 - run tests using rspec
+
+Just a simple app
