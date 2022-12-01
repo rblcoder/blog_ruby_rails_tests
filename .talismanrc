@@ -1,0 +1,18 @@
+fileignoreconfig:
+- filename: config/database.yml
+  checksum: 552285b3d1d9329f2a9711e183437134195b34dbe549bfa467c2229d71e189c6
+- filename: config/environment.rb
+  checksum: d0c1b7ce8bcba5fd87145cbd81982f3ae77f7d653e47c8e1db807cfeb29d0267
+- filename: db/schema.rb
+  checksum: 3f48a92c814282baaf53442ed946c4b22e9d9325fe237be58e6f9b830bb82546
+- filename: config/credentials.yml.enc
+  checksum: 057da2c349092bd2354b25ace95b37354594b7e41ade26c3f7a3480e8bc05a34
+- filename: Gemfile
+  checksum: 7c0ff04d52cd5a0d05fac4549d0d4be850ab2b8b76061254ae621c9a0ba989ff
+- filename: config/storage.yml
+  checksum: 9bc94b1f2e214e78b41179a56ebeb546e469ec8f0ce3f507006678fcba89f02e
+- filename: config/initializers/filter_parameter_logging.rb
+  checksum: d22271e52e35de70962f220c552bebbe81c49370511d8d447accb2abbb99a1e6
+- filename: vendor/jquery-3.6.1.min.js
+  checksum: 4724eeb0732b9ca370976e6b9342144f3b9baaa0a3f94b61327fdf85cf758d80
+version: ""
